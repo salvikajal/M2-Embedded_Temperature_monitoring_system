@@ -14,3 +14,4 @@
 | L_03  |Reserve seat           | PASSED       |SUCCESS     |
 
 
+![ebd](https://user-images.githubusercontent.com/94483005/144438684-ba046116-b70f-402a-b68b-d8935af1bd75.png)
